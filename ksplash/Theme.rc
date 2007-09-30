@@ -12,13 +12,33 @@ BaseResolution = 1600,1200
 UseIconSet = false
 
 Image1 = ./sidux-logo.png
+Image2 = ./kcmsystem.png
+Image3 = ./kcontrol.png
+Image4 = ./kcmpci.png
+Image5 = ./window_list.png
+Image6 = ./desktop.png
+Image7 = ./style.png
+Image8 = ./kmenu.png
 
 ImageCoords1 = 1150,950
+ImageCoords2 = 579,680
+ImageCoords3 = 646,680
+ImageCoords4 = 713,680
+ImageCoords5 = 780,680
+ImageCoords6 = 847,680
+ImageCoords7 = 913,680
+ImageCoords8 = 980,680
+
+LineUpImages = false
 
 Labels = 1
-Label1 = Welcome
-LabelFont1 = Trebuchet MS,48,-1,0,0,0
-LabelCoords1 = -1,400
+Label1 = Please Wait
+LabelFont1 = Verdana,20,-1,0,0,0
+LabelColor1 = #FFFFFF
+LabelCoords1 = -1,547
 
-StatusCoords = -1,450
+StatusCoords = -1,625
+StatusColor = #FFFFFF
+StatusFont = Verdana,12,-1,0,0,0
 
+ImageOffset1 = 0,20
