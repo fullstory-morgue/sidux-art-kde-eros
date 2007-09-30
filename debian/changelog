@@ -4,5 +4,6 @@ sidux-art-kde-eros (0.0) unstable; urgency=low
   * add debian/install
   * copy kdisplay from gaia pkg
   * add eros kdm theme
+  * remove gradient artifact at top of the bg 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 29 Sep 2007 17:57:31 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 30 Sep 2007 11:04:22 +1000
