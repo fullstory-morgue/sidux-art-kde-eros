@@ -1,0 +1,29 @@
+[KSplash Theme: sidux-eros]
+Name = sidux-eros
+Description = Fading splash screen based on the svg wallpaper (Lineart Logo)
+Version = 1.0
+Author = Bernard Gray <bernard.gray@gmail.com>
+Homepage = http://www.sidux.com
+Engine = Moodin
+
+BeginOpacity = 0.1
+BaseResolution = 1600,1200
+
+UseIconSet = true
+IconSetSize = 64
+
+Image1 = kcmsystem
+Image2 = kcontrol
+Image3 = kcmpci
+Image7 = kmenuedit
+
+LineUpImages = true
+
+Labels = 1
+Label1 = Welcome
+LabelFont1 = Trebuchet MS,48,-1,0,0,0
+LabelCoords1 = -1,400
+
+StatusCoords = -1,450
+
+ImageOffset1 = 0,20
