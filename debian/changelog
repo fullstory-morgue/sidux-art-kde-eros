@@ -5,6 +5,9 @@ sidux-art-kde-eros (0.0) unstable; urgency=low
   * copy kdisplay from gaia pkg
   * add eros kdm theme
   * remove gradient artifact at top of the bg
-  * populate ksplash dir 
+  * populate ksplash dir
+  * modify it for eros look n feel
+  * add sidux logo source
+  * include sidux-logo as an icon to avoid aspect ratio stretching
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 30 Sep 2007 12:09:20 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 30 Sep 2007 13:53:27 +1000
