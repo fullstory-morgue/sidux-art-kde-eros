@@ -11,6 +11,7 @@ sidux-art-kde-eros (0.0) unstable; urgency=low
   * include sidux-logo as an icon to avoid aspect ratio stretching
   * rename kdisplay items so they don't override gaia colour themes
   * kdm theme tweaking - move all elements, add user list
-  * ksplash theme tweaking, create sidux logo as an icon to support all res' 
+  * ksplash theme tweaking, create sidux logo as an icon to support all res'
+  * update kdm screenshot 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 01 Oct 2007 01:54:25 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 01 Oct 2007 02:17:51 +1000
