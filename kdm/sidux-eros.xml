@@ -46,14 +46,14 @@
 
 			<!-- Welcome on ... -->
 			<item type="label">
-				<pos anchor="c" x="50%" y="60"/>
+				<pos anchor="c" x="50%" y="90"/>
 				<normal color="#FFFFFF" font="Verdana 18"/>
 				<stock type="welcome-label"/>
 			</item>
 	
 			<item type="label" id="clock">
 				<normal color="#FFFFFF" font="Verdana 11"/>
-				<pos anchor="c" x="50%" y="90"/>		
+				<pos anchor="c" x="50%" y="120"/>		
 				<text>%c</text>
 			</item>
 	
