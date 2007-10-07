@@ -22,14 +22,14 @@
 			
 			<!-- username-label -->
 			<item type="label">
-				<pos anchor="w" x="320" y="170"/>
+				<pos anchor="w" x="310" y="170"/>
 				<normal color="#FFFFFF" font="Verdana 12"/>
 				<stock type="username-label"/>
 			</item>
 			
 			<!-- password-label -->
 			<item type="label">
-				<pos anchor="w" x="320" y="205"/>
+				<pos anchor="w" x="310" y="205"/>
 				<normal color="#FFFFFF" font="Verdana 12"/>
 				<stock type="password-label"/>
 			</item>
