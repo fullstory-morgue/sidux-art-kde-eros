@@ -1,9 +1,5 @@
-sidux-art-kde-eros (0.2) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * adjust x coordinates of kdm user/pwd label so de will fit
   * move the kdm welcome + clock down a little
 
