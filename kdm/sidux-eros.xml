@@ -59,15 +59,15 @@
 	
 			<!-- Login-Error -->
 			<item type="label" id="pam-error">
-				<pos anchor="c" x="50%" y="110"/>
-				<normal color="#a20000" font="Verdana 13"/>
+				<pos anchor="c" x="65%" y="235"/>
+				<normal color="#ffffff" font="Verdana 13"/>
 				<text></text>
 			</item>
 		
 			<!-- capslock-warning -->
 			<item type="label" id="caps-lock-warning">
-				<pos anchor="c" x="50%" y="130"/>
-				<normal color="#a20000" font="Verdana 13"/>
+				<pos anchor="c" x="65%" y="250"/>
+				<normal color="#ff3c00" font="Verdana 13"/>
 				<stock type="caps-lock-warning"/>
 			</item>
 			<!-- at the moment, the userlist doesn't support alpha or pixmap, so it looks ugly -->

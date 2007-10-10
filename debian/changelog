@@ -1,9 +1,13 @@
 sidux-art-kde-eros (0.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
   * update syntax for Vcs headers in debian/control
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:47:15 +0200
+  [ Bernard Gray ]
+  * adjust coords and colours of caps lock and login error text 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 11 Oct 2007 00:50:30 +1000
 
 sidux-art-kde-eros (0.2) unstable; urgency=low
 
