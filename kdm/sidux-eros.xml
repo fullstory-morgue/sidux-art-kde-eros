@@ -93,7 +93,7 @@
 					<normal color="#FFFFFF" font="Verdana 11"/>
 					<prelight color="#DFD8AF" font="Verdana 11"/>
 					<active color="#000000" font="Verdana 11"/>
-					<pos anchor="c" y="10" x="55"/>
+					<pos anchor="c" y="10" x="65"/>
 					<stock type="session"/>
 				</item>
 			</item>
