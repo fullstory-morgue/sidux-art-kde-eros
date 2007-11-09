@@ -1,9 +1,5 @@
-sidux-art-kde-eros (0.5) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * adjust session text slightly to right 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Wed, 07 Nov 2007 18:57:33 +1100
