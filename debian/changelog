@@ -1,13 +1,8 @@
-sidux-art-kde-eros (0.6) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * create a kde theme for easy theme switching between releases
    - tar.gz is only temporary, I will pull it later
   * add debian/install entry
-   - ready for upload
   * update pkg description to include kde theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 12 Nov 2007 18:05:41 +1100
