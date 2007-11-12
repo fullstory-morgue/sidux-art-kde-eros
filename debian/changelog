@@ -5,11 +5,12 @@ sidux-art-kde-eros (0.6) UNRELEASED; urgency=low
 
   [ Bernard Gray ]
   * create a kde theme for easy theme switching between releases
-   - this is untested so far, I need to work out decorator deps and so on
    - tar.gz is only temporary, I will pull it later
-   - please don't upload yet ;)
+  * add debian/install entry
+   - ready for upload
+  * update pkg description to include kde theme
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 12 Nov 2007 17:45:30 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 12 Nov 2007 18:05:41 +1100
 
 sidux-art-kde-eros (0.5) unstable; urgency=low
 

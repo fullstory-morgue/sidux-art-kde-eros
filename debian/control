@@ -11,5 +11,5 @@ Package: sidux-art-kde-eros
 Architecture: all
 Depends: ksplash, kdm, ksplash-engine-moodin
 Description: kde theme for sidux 2007-04 eros
- Provides ksplash and kdm themes 
+ Provides ksplash, kdm and kde themes 
  for sidux 2007-04 Eros release
