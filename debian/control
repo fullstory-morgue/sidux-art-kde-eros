@@ -10,6 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
 Package: sidux-art-kde-eros
 Architecture: all
 Depends: ksplash, kdm, ksplash-engine-moodin
+Suggests: gtk2-engines-qtcurve, kde-style-qtcurve, sidux-art-wallpaper-eros 
 Description: kde theme for sidux 2007-04 eros
  Provides ksplash, kdm and kde themes 
  for sidux 2007-04 Eros release

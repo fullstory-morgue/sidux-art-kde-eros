@@ -1,8 +1,13 @@
 sidux-art-kde-eros (0.7) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 12 Nov 2007 13:17:35 +0100
+  [ Bernard Gray ]
+  * add suggests for kde theme
+  * delete temp tar.gz in kde-theme 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 15 Nov 2007 12:17:33 +1100
 
 sidux-art-kde-eros (0.6) unstable; urgency=low
 
