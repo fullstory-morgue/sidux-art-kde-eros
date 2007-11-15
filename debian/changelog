@@ -1,9 +1,5 @@
-sidux-art-kde-eros (0.7) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add suggests for kde theme
   * delete temp tar.gz in kde-theme 
 
