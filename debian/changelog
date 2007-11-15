@@ -1,3 +1,9 @@
+sidux-art-kde-eros (0.8) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 16 Nov 2007 00:48:25 +0100
+
 sidux-art-kde-eros (0.7) unstable; urgency=low
 
   * add suggests for kde theme
