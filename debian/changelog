@@ -1,8 +1,9 @@
 sidux-art-kde-eros (0.8) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * update to Standards-Version 3.7.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 16 Nov 2007 00:48:25 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 03 Dec 2007 14:08:56 +0100
 
 sidux-art-kde-eros (0.7) unstable; urgency=low
 
