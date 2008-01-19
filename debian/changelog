@@ -1,8 +1,10 @@
-sidux-art-kde-eros (0.9) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update to debhelper compat 6.
+  * add myself to Uploaders.
+  * fix KDE spelling error.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 08 Dec 2007 23:37:09 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 01:30:46 +0100
 
 sidux-art-kde-eros (0.8) unstable; urgency=low
 
