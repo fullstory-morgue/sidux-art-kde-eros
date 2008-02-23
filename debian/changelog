@@ -1,8 +1,8 @@
-sidux-art-kde-eros (0.11) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.11) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * Provides: sidux-art-kde-theme.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:02:53 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 13:41:42 +0100
 
 sidux-art-kde-eros (0.10) unstable; urgency=low
 
