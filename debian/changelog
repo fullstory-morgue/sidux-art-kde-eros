@@ -1,9 +1,8 @@
-sidux-art-kde-eros (0.14) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.14) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 02:56:08 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:26:30 +0100
 
 sidux-art-kde-eros (0.13) unstable; urgency=low
 
