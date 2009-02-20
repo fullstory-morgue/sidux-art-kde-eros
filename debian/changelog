@@ -1,8 +1,9 @@
-sidux-art-kde-eros (0.15) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.15) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix desktop-entry-contains-encoding-key.
+  * clarify licensing.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:27:36 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:32:31 +0100
 
 sidux-art-kde-eros (0.14) unstable; urgency=low
 
