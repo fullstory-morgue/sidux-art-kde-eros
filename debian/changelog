@@ -1,8 +1,9 @@
-sidux-art-kde-eros (0.17) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.17) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * Moved sidux-art-kde-eros.postinst to 
+    sidux-art-wallpaper-eros/debian/sidux-art-wallpaper-eros.postinst
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:26:43 +0200
+ -- Michiel de Boer <locsmif@sidux.com>  Tue, 07 Apr 2009 05:18:03 +0200
 
 sidux-art-kde-eros (0.16) unstable; urgency=low
 
