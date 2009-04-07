@@ -1,3 +1,9 @@
+sidux-art-kde-eros (0.18) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 19:47:31 +0200
+
 sidux-art-kde-eros (0.17) unstable; urgency=low
 
   * Moved sidux-art-kde-eros.postinst to 
