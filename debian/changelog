@@ -1,8 +1,9 @@
-sidux-art-kde-eros (0.18) UNRELEASED; urgency=low
+sidux-art-kde-eros (0.18) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * temporarily ORPHAN PACKAGE.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 19:47:31 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:06:31 +0200
 
 sidux-art-kde-eros (0.17) unstable; urgency=low
 
